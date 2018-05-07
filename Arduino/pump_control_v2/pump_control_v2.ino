@@ -13,7 +13,7 @@ int PTPIN = 0;
 int TCPIN1 = 10;
 int TCPIN2 = 20;
 int TCPIN3 = 30;
-int PWM_PIN = 9;
+int PWM_PIN = 3;
 int H2PIN = 1;
 
 //Pump definition
@@ -32,8 +32,8 @@ H2_sensor h2sensor(H2PIN);
 // Constants
 float nominal = 0; // Calibrated pressure reading
 float minMotorSpeed = 1;
-float desiredFlowRate = 0.35;
-bool filtering = 1;
+float desiredFlowRate = 0.24;
+bool filtering = 0;
 
 // Variables for loop control
 elapsedMillis loopTime; // loopTime used to force precise deltaT between starts
@@ -42,44 +42,30 @@ elapsedMillis onOffTracker; //On off delay to approximate slow motor speeds
 uint32_t loopCounter;
 uint32_t numSkip = 20;  // Number of loops to skip between host updates.
 bool controlSwitch = false; // switch to start controls
-float timeDelay = 70000; //time to start controlling
-float startingRun = 4000; //time pump runs during warmup
+float timeDelay = 150000; //time to start controlling
+float startingRun = 10000; //time pump runs during warmup
 float flowRateStarting = 1.0; //starting flowrate
 float onDelay = 500; //on off delay time
-float offDelay = 2500;
+float offDelay = 1500;
 
 // PID Loop
-float P_desired = 4;
-float K_p = 0;
-float K_d = 300;
-float K_i = 0.00001;
-float K_ms = 0;
+float P_desired = 8;
+float K_p = 0.15;
+float K_d = 350;
+float K_i = 0;
 float Sum;
-float summax = 25000;
-float MS_Sum;
-float MS_summax = 2500;
+float summax = 100;
 
-#define pastSize 10 //Past errors to keep 
+#define pastSize 3 //Past errors to keep 
 
 float pastError[pastSize+1];  // Should be larger array than past_size.
 unsigned int deltaT = 100;    // Sample period in microseconds.
 float oneOverMdt = 1.0/(deltaT*pastSize); // Divide deltas by interval.
-float pastSpeed = 0;
 
 // Variables for warm up
 float pastTemperature; //saves past temperature
 float dTTreshold; //threshold for temperature stability
 
-void motor_write(int pin, float flowrate)
-{
-  float clipped = constrain(flowrate, 0, satFlow);
-//  Serial.println(clipped);
-  float max_pwm = 255*(satFlow/3.8);
-  float pwm_sig = max_pwm - (max_pwm/satFlow)*(satFlow-clipped);
-//  Serial.println(pwm_sig);
-//  Serial.println((int)pwm_sig);
-  analogWrite(pin,(int)pwm_sig);
-};
 
 void setup() {
   // Start Serial
@@ -92,47 +78,26 @@ void setup() {
 ////  delay(1000);
 //  m.motor_write(0);
 //  delay(10000);
-  motor_write(9,0);
-
-  for(int i = 0; i < 5; i++)
-  { 
-    Serial.print("Starting in: ");
-    Serial.println(5-i);
-    delay(1000);
-  }
-  
+  m.motor_write(0);
   // Calibrate the sensor
   Serial.println("Calibrating... ");
 
   for(int i = 0; i < 100; i++)
   { 
-    psensor.update_sensor(0);
+    psensor.update_sensor(filtering);
     nominal += psensor.current_reading;
     delay(20);
   }
   nominal /= 100.0;
-  //nominal = 29.68;
+  sinceStart = 0;
   printOut(100,"Nominal pressure correction: ",nominal);
   Serial.println("Done calibrating");
-  sinceStart = 0;
-
-  // Close the relief valve
-  analogWrite(3, 0);
 }
 
 void loop() {
-  updatePump();
-  warmUp();
-  //minSignal();
-  //H2Test();
-
-  // Check if pressure bad
-  if(psensor.current_reading - nominal > 30)
-  {
-    Serial.println("Pressure too high, opening valve");
-    controlSwitch = false;
-    analogWrite(3,255);
-  }
+  //updatePump();
+  //warmUp();
+  minSignal();
 }
 
 //Pump update
@@ -143,7 +108,7 @@ void updatePump(){
   // Read Sensor value
   psensor.update_sensor(filtering);
   h2sensor.update_sensor();
-  printOut(loopCounter,"Time Since Start: ",sinceStart);
+
   printOut(loopCounter,"H2 Reading: ",h2sensor.current_reading);
   
   float P_current = psensor.current_reading-nominal;
@@ -152,7 +117,7 @@ void updatePump(){
   
   float error = P_desired-P_current;
 
-  printOut(loopCounter,"MW from Pressure Error: ",error*K_p);
+  printOut(loopCounter,"Pressure Error: ",error);
   
   float errorDelta = (error-pastError[pastSize-1])*oneOverMdt;
 
@@ -162,21 +127,11 @@ void updatePump(){
   for (int i = pastSize; i > 0; i--) pastError[i] = pastError[i-1];
   pastError[0] = error;
 
-  printOut(loopCounter,"MW from Pressure Error Change: ",errorDelta*K_d);
-  printOut(loopCounter,"MW from Pressure Error Sum: ",Sum*K_i);
- 
+  printOut(loopCounter,"Pressure Error Change: ",errorDelta);
+  
   // Set the motor speed
+  float flowRate = desiredFlowRate + K_p*error+K_d*errorDelta+K_i*Sum;
 
-  MS_Sum = MS_Sum*0.95;
-  
-  MS_Sum = fmax(fmin(pastSpeed*deltaT + MS_Sum,MS_summax),0);
-
-  float flowRate = desiredFlowRate + K_p*error+K_d*errorDelta+K_i*Sum-K_ms*MS_Sum;
-
-  pastSpeed = flowRate;
-
-  printOut(loopCounter,"MW from Motor Speed Sum: ",-1*MS_Sum*K_ms);
-  
   setMotorSpeed(flowRate); 
  
   printOut(loopCounter,"Motor Speed Written: ",flowRate);
@@ -216,7 +171,6 @@ void warmUp(){
   printOut(loopCounter,"Pressure: ",currentPressure);
 
   if (currentPressure > P_desired) controlSwitch = true; 
-  if (sinceStart > timeDelay) controlSwitch = true; 
   
   // updates timing
   loopTime = 0;
@@ -253,13 +207,6 @@ void minSignal(){
   delay(1000);
 }
 
-void H2Test(){
-  h2sensor.update_sensor();
-  printOut(100000,"H2 Reading: ",h2sensor.current_reading);
-  
-  delay(500);
-}
-
 void setMotorSpeed(float motorSpeed){
   float flowRate = 0;
   if (motorSpeed >= minMotorSpeed) {
@@ -272,6 +219,6 @@ void setMotorSpeed(float motorSpeed){
 
   if (onOffTracker > offDelay+onDelay) onOffTracker = 0;
   
-  motor_write(PWM_PIN,flowRate);
+  m.motor_write(flowRate);
 }
 

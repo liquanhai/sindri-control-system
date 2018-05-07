@@ -186,12 +186,12 @@ void Thermistor::begin()
 
 void Thermistor::update_sensor()
 {
-    analog_in  = analogRead(_pin);
-    measured_v = analog_in*(5.0/1023.0);
+    float analog_in  = analogRead(_pin);
+    float measured_v = analog_in*(5.0/1023.0);
 
     float current_R = _R*((5.0-measured_v)/measured_v);
 
-    float inv_T = A + B*math.log(current_R) + math.pow(C*math.log(current_R),3);
+    float inv_T = _A + _B*log(current_R) + _C*pow(log(current_R),3);
     current_reading = 1/inv_T;
     
     time = millis();
@@ -207,10 +207,8 @@ void Thermistor::log_data()
     Serial.print("\n");
 }
 
-}
-
 // Thermocouples
-void Thermocouple::Thermocouple(int DO, int CLK, int CS):
+Thermocouple::Thermocouple(int DO, int CLK, int CS):
     thermocouple(CLK, CS, DO)
 {
     _CS = CS;

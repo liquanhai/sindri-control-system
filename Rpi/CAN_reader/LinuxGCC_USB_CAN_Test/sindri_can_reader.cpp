@@ -25,9 +25,6 @@
 
 #define CAN_CALLBACK_READ_DATA 0
 #define can_index 1
-#define send_command 1
-#define read_data 1
-
 
 #ifdef CAN_CALLBACK_READ_DATA
 void WINAPI GetDataCallback(uint32_t DevIndex,uint32_t CANIndex,uint32_t Len)
@@ -69,6 +66,7 @@ void ParseData(VCI_CAN_OBJ pCAN_ReceiveData){
   // Check the last frame to see what we are getting
   if (Frame_last == 0x01)
   {
+    printf("Frame Last = 1\n");
     // Not sure what this ID is, printing anyway
     int id = (pCAN_ReceiveData.Data[0] << 8) | pCAN_ReceiveData.Data[1];
     printf("ID 1: %d\n\n", id);
@@ -95,14 +93,6 @@ void ParseData(VCI_CAN_OBJ pCAN_ReceiveData){
     printf("Internal Power Supply %f V\n", power_supply);
     printf("Coolant Temp %f C\n", coolant_temp);
     printf("Internal Temp %f C\n\n", internal_temp);
-  } else if (Frame_last == 0x0B)
-  {
-    printf("Error Message: ");
-    for(int i = 0; i < pCAN_ReceiveData.DataLen; i++)
-    {
-      printf(" %x ", pCAN_ReceiveData.Data[i]);
-    }
-    printf("\n");
   }
 }
 
@@ -123,35 +113,30 @@ void ReadData()
 
 // CAN SEND DATA
 //Send data
-void SendCommand(int Power, int Voltage)
+void SendCommand()
 {
   int Status;
 
-  VCI_CAN_OBJ	CAN_SendData;
+  VCI_CAN_OBJ	CAN_SendData[2];
+  for(int j=0;j<2;j++){
+  CAN_SendData[j].DataLen = 8;
+  for(int i=0;i<CAN_SendData[j].DataLen;i++){
+    CAN_SendData[j].Data[i] = 0x55;
+  }
+  CAN_SendData[j].ExternFlag = 0;
+  CAN_SendData[j].RemoteFlag = 0;
+  CAN_SendData[j].ID = 0x155+j;
+  CAN_SendData[j].SendType = 2;
+  CAN_SendData[j].SendType = 0;
 
-  CAN_SendData.ID = 0x0000A010;
-
-  CAN_SendData.ExternFlag = 0;
-  CAN_SendData.RemoteFlag = 0;
-  CAN_SendData.SendType = 2;
-  CAN_SendData.SendType = 0;
-
-
-  // Pack in the data bytes
-  CAN_SendData.DataLen = 5;
-  CAN_SendData.Data[0] = 0x01; // Power Operation Mode
-  CAN_SendData.Data[1] = 0x00; //DCDC Status Field (Power Operation)
-  CAN_SendData.Data[2] = Power; // Power level
-  CAN_SendData.Data[3] = Voltage; // Output voltage
-  CAN_SendData.Data[4] = 0x00; // Output Voltage Regulation
-
-  Status = VCI_Transmit(VCI_USBCAN2,0,can_index,&CAN_SendData,1);
+  }
+  Status = VCI_Transmit(VCI_USBCAN2,0,can_index,CAN_SendData,2);
   if(Status==STATUS_ERR){
       printf("Send CAN data failed!\n");
       VCI_ResetCAN(VCI_USBCAN2,0,can_index);
-  } else{
+  }else{
       printf("Send CAN data success!\n");
-    }
+  }
 }
 
 
@@ -254,12 +239,8 @@ int main(void)
         printf("Start CAN success!\n");
     }
 
-    // Send Commmand Block
-    if(send_command){
-      SendCommand(0x258,0x190);
-    }
-
     // Read Data Block
+    bool read_data = 1;
     if(read_data){
       while(1){
         ReadData();
