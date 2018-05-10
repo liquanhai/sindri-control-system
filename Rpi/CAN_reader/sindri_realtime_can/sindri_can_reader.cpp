@@ -129,7 +129,7 @@ void SendCommand(int Power, int Voltage)
 
   VCI_CAN_OBJ	CAN_SendData;
 
-  CAN_SendData.ID = 0x0000A010;
+  CAN_SendData.ID = 0x1A01000B;
 
   CAN_SendData.ExternFlag = 0;
   CAN_SendData.RemoteFlag = 0;
@@ -139,11 +139,14 @@ void SendCommand(int Power, int Voltage)
 
   // Pack in the data bytes
   CAN_SendData.DataLen = 5;
-  CAN_SendData.Data[0] = 0x01; // Power Operation Mode
+  CAN_SendData.Data[0] = 0x00; // Power Operation Mode
   CAN_SendData.Data[1] = 0x00; //DCDC Status Field (Power Operation)
-  CAN_SendData.Data[2] = Power; // Power level
-  CAN_SendData.Data[3] = Voltage; // Output voltage
+  CAN_SendData.Data[2] = 0x00;//Power; // Power level
+  CAN_SendData.Data[3] = 0x80;//Voltage; // Output voltage
   CAN_SendData.Data[4] = 0x00; // Output Voltage Regulation
+  CAN_SendData.Data[5] = 0x00;
+  CAN_SendData.Data[6] = 0x00;
+  CAN_SendData.Data[7] = 0x40;
 
   Status = VCI_Transmit(VCI_USBCAN2,0,can_index,&CAN_SendData,1);
   if(Status==STATUS_ERR){
@@ -263,6 +266,9 @@ int main(void)
     if(read_data){
       while(1){
         ReadData();
+        //if(send_command){
+        //    SendCommand(0x258,0x190);
+        //}
       }
     }
 

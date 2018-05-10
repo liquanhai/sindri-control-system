@@ -35,7 +35,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
 
-  Serial.print("Temp1: ");
+  Serial.print("\nTemp1: ");
   t1.update_sensor();
   t1.log_data();
 
@@ -47,11 +47,11 @@ void loop() {
   t3.update_sensor();
   t3.log_data();
 
-  Serial.print("Pres1: ");
+  Serial.print("\nPres1: ");
   p1.update_sensor(0);
   p1.log_data();
 
-  delay(500);
+  delay(1500);
   
 //  Serial.print("Motor set full\n");
 //  analogWrite(pump_pin, 255);

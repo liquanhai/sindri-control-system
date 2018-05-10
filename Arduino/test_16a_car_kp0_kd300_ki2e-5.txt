@@ -1,0 +1,2947 @@
+Reaction C⸮Reaction Control Test!
+Starting in: 5
+Starting in: 4
+Starting in: 3
+Starting in: 2
+Starting in: 1
+Calibrating... 
+Nominal pressure correction: 25.32 
+Done calibrating
+Current Chamber Temperature: 25.46 
+Temp 2: 25.35 
+Temp 3: 25.37 
+Motor Speed Written: 1.00 
+Time since start: 2074.00 
+Pressure: 0.03 
+Current Chamber Temperature: 25.45 
+Temp 2: 25.35 
+Temp 3: 25.46 
+Motor Speed Written: 0.00 
+Time since start: 4292.00 
+Pressure: -0.06 
+Current Chamber Temperature: 25.45 
+Temp 2: 25.35 
+Temp 3: 25.46 
+Motor Speed Written: 0.00 
+Time since start: 6511.00 
+Pressure: 0.06 
+Current Chamber Temperature: 25.45 
+Temp 2: 25.35 
+Temp 3: 25.46 
+Motor Speed Written: 0.00 
+Time since start: 8730.00 
+Pressure: 0.03 
+Current Chamber Temperature: 25.45 
+Temp 2: 25.36 
+Temp 3: 25.46 
+Motor Speed Written: 0.00 
+Time since start: 10948.00 
+Pressure: 0.06 
+Current Chamber Temperature: 25.45 
+Temp 2: 25.35 
+Temp 3: 25.45 
+Motor Speed Written: 0.00 
+Time since start: 13167.00 
+Pressure: 0.08 
+Current Chamber Temperature: 25.45 
+Temp 2: 25.35 
+Temp 3: 25.45 
+Motor Speed Written: 0.00 
+Time since start: 15386.00 
+Pressure: 0.26 
+Current Chamber Temperature: 25.45 
+Temp 2: 25.35 
+Temp 3: 25.46 
+Motor Speed Written: 0.00 
+Time since start: 17606.00 
+Pressure: 0.56 
+Current Chamber Temperature: 25.46 
+Temp 2: 25.35 
+Temp 3: 25.46 
+Motor Speed Written: 0.00 
+Time since start: 19825.00 
+Pressure: 1.13 
+Current Chamber Temperature: 25.45 
+Temp 2: 25.36 
+Temp 3: 25.46 
+Motor Speed Written: 0.00 
+Time since start: 22044.00 
+Pressure: 2.25 
+Current Chamber Temperature: 25.46 
+Temp 2: 25.35 
+Temp 3: 25.45 
+Motor Speed Written: 0.00 
+Time since start: 24263.00 
+Pressure: 4.97 
+Time Since Start: 26460.00 
+H2 Reading: 307.00 
+T1 Reading: 25.51 
+T2 Reading: 25.40 
+T3 Reading: 25.46 
+Pressure Reading: 9.95 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.59 
+MW from Pressure Error Sum: -0.02 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.89 
+Time Since Start: 28858.00 
+H2 Reading: 311.00 
+T1 Reading: 25.65 
+T2 Reading: 25.40 
+T3 Reading: 25.36 
+Pressure Reading: 11.46 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.00 
+MW from Pressure Error Sum: -0.15 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.35 
+Time Since Start: 31256.00 
+H2 Reading: 309.00 
+T1 Reading: 25.73 
+T2 Reading: 25.37 
+T3 Reading: 25.51 
+Pressure Reading: 10.75 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.02 
+MW from Pressure Error Sum: -0.27 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.21 
+Time Since Start: 33655.00 
+H2 Reading: 321.00 
+T1 Reading: 25.96 
+T2 Reading: 25.36 
+T3 Reading: 25.54 
+Pressure Reading: 13.54 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.60 
+MW from Pressure Error Sum: -0.43 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.47 
+Time Since Start: 36053.00 
+H2 Reading: 337.00 
+T1 Reading: 26.52 
+T2 Reading: 25.45 
+T3 Reading: 25.48 
+Pressure Reading: 16.88 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.27 
+MW from Pressure Error Sum: -0.76 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.47 
+Time Since Start: 38453.00 
+H2 Reading: 329.00 
+T1 Reading: 27.58 
+T2 Reading: 25.45 
+T3 Reading: 25.48 
+Pressure Reading: 14.46 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.45 
+MW from Pressure Error Sum: -1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.95 
+Time Since Start: 40852.00 
+H2 Reading: 313.00 
+T1 Reading: 29.08 
+T2 Reading: 25.48 
+T3 Reading: 25.48 
+Pressure Reading: 10.80 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.51 
+MW from Pressure Error Sum: -1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.01 
+Time Since Start: 43250.00 
+H2 Reading: 298.00 
+T1 Reading: 31.40 
+T2 Reading: 25.46 
+T3 Reading: 25.48 
+Pressure Reading: 8.06 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.38 
+MW from Pressure Error Sum: -1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.88 
+Time Since Start: 45647.00 
+H2 Reading: 291.00 
+T1 Reading: 33.88 
+T2 Reading: 25.51 
+T3 Reading: 25.46 
+Pressure Reading: 6.98 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.10 
+MW from Pressure Error Sum: -0.97 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.62 
+Time Since Start: 48044.00 
+H2 Reading: 288.00 
+T1 Reading: 38.62 
+T2 Reading: 25.48 
+T3 Reading: 25.48 
+Pressure Reading: 6.43 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: -0.91 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.60 
+Time Since Start: 50442.00 
+H2 Reading: 286.00 
+T1 Reading: 45.73 
+T2 Reading: 25.48 
+T3 Reading: 25.48 
+Pressure Reading: 6.21 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.09 
+MW from Pressure Error Sum: -0.85 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.74 
+Time Since Start: 52840.00 
+H2 Reading: 283.00 
+T1 Reading: 58.50 
+T2 Reading: 25.49 
+T3 Reading: 25.48 
+Pressure Reading: 5.86 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: -0.76 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.79 
+Time Since Start: 55237.00 
+H2 Reading: 280.00 
+T1 Reading: 84.74 
+T2 Reading: 25.48 
+T3 Reading: 25.48 
+Pressure Reading: 5.27 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.09 
+MW from Pressure Error Sum: -0.66 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 0.93 
+Time Since Start: 57634.00 
+H2 Reading: 278.00 
+T1 Reading: 160.19 
+T2 Reading: 25.48 
+T3 Reading: 25.48 
+Pressure Reading: 4.72 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.07 
+MW from Pressure Error Sum: -0.53 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.03 
+Time Since Start: 60031.00 
+H2 Reading: 273.00 
+T1 Reading: 1008.66 
+T2 Reading: 25.51 
+T3 Reading: 25.49 
+Pressure Reading: 4.13 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.14 
+MW from Pressure Error Sum: -0.39 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.25 
+Time Since Start: 62431.00 
+H2 Reading: 274.00 
+T1 Reading: -112.42 
+T2 Reading: 25.40 
+T3 Reading: 25.49 
+Pressure Reading: 4.17 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: -0.23 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.23 
+Time Since Start: 64832.00 
+H2 Reading: 278.00 
+T1 Reading: -46.65 
+T2 Reading: 25.51 
+T3 Reading: 25.42 
+Pressure Reading: 4.86 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.11 
+MW from Pressure Error Sum: -0.08 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.31 
+Time Since Start: 67231.00 
+H2 Reading: 285.00 
+T1 Reading: -21.92 
+T2 Reading: 25.51 
+T3 Reading: 25.39 
+Pressure Reading: 6.78 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.27 
+MW from Pressure Error Sum: 0.01 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.24 
+Time Since Start: 69625.00 
+H2 Reading: 295.00 
+T1 Reading: nan 
+T2 Reading: 25.39 
+T3 Reading: 25.49 
+Pressure Reading: 9.22 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.46 
+MW from Pressure Error Sum: 0.01 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.05 
+Time Since Start: 71999.00 
+H2 Reading: 308.00 
+T1 Reading: nan 
+T2 Reading: 25.52 
+T3 Reading: 25.42 
+Pressure Reading: 11.44 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.21 
+MW from Pressure Error Sum: -0.09 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.19 
+Time Since Start: 74376.00 
+H2 Reading: 289.00 
+T1 Reading: nan 
+T2 Reading: 25.43 
+T3 Reading: 25.51 
+Pressure Reading: 5.63 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 1.55 
+MW from Pressure Error Sum: -0.18 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.87 
+Time Since Start: 76751.00 
+H2 Reading: 290.00 
+T1 Reading: nan 
+T2 Reading: 25.55 
+T3 Reading: 25.48 
+Pressure Reading: 7.85 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: -0.16 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.27 
+Time Since Start: 79127.00 
+H2 Reading: 294.00 
+T1 Reading: nan 
+T2 Reading: 25.51 
+T3 Reading: 25.36 
+Pressure Reading: 8.35 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: -0.17 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.26 
+Time Since Start: 81502.00 
+H2 Reading: 286.00 
+T1 Reading: nan 
+T2 Reading: 25.55 
+T3 Reading: 25.48 
+Pressure Reading: 7.69 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: -0.16 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.34 
+Time Since Start: 83877.00 
+H2 Reading: 284.00 
+T1 Reading: nan 
+T2 Reading: 25.55 
+T3 Reading: 25.48 
+Pressure Reading: 6.07 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.40 
+MW from Pressure Error Sum: -0.13 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.77 
+Time Since Start: 86252.00 
+H2 Reading: 293.00 
+T1 Reading: nan 
+T2 Reading: 25.54 
+T3 Reading: 25.48 
+Pressure Reading: 8.10 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.25 
+MW from Pressure Error Sum: -0.10 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.15 
+Time Since Start: 88627.00 
+H2 Reading: 299.00 
+T1 Reading: nan 
+T2 Reading: 25.52 
+T3 Reading: 25.52 
+Pressure Reading: 9.45 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: -0.14 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.31 
+Time Since Start: 91003.00 
+H2 Reading: 293.00 
+T1 Reading: nan 
+T2 Reading: 25.75 
+T3 Reading: 25.43 
+Pressure Reading: 7.71 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.09 
+MW from Pressure Error Sum: -0.16 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.43 
+Time Since Start: 93377.00 
+H2 Reading: 289.00 
+T1 Reading: nan 
+T2 Reading: 25.78 
+T3 Reading: 25.49 
+Pressure Reading: 6.94 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.16 
+MW from Pressure Error Sum: -0.13 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.53 
+Time Since Start: 95752.00 
+H2 Reading: 292.00 
+T1 Reading: nan 
+T2 Reading: 26.22 
+T3 Reading: 25.40 
+Pressure Reading: 7.51 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: -0.11 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.47 
+Time Since Start: 98127.00 
+H2 Reading: 295.00 
+T1 Reading: nan 
+T2 Reading: 26.79 
+T3 Reading: 25.40 
+Pressure Reading: 8.15 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.02 
+MW from Pressure Error Sum: -0.11 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.37 
+Time Since Start: 100503.00 
+H2 Reading: 293.00 
+T1 Reading: nan 
+T2 Reading: 27.90 
+T3 Reading: 25.48 
+Pressure Reading: 8.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: -0.13 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.40 
+Time Since Start: 102878.00 
+H2 Reading: 293.00 
+T1 Reading: nan 
+T2 Reading: 30.00 
+T3 Reading: 25.37 
+Pressure Reading: 7.92 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.10 
+MW from Pressure Error Sum: -0.14 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.47 
+Time Since Start: 105255.00 
+H2 Reading: 291.00 
+T1 Reading: nan 
+T2 Reading: 35.27 
+T3 Reading: 25.33 
+Pressure Reading: 7.62 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.14 
+MW from Pressure Error Sum: -0.12 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.24 
+Time Since Start: 107631.00 
+H2 Reading: 286.00 
+T1 Reading: nan 
+T2 Reading: 54.62 
+T3 Reading: 25.46 
+Pressure Reading: 6.96 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.14 
+MW from Pressure Error Sum: -0.09 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.54 
+Time Since Start: 110006.00 
+H2 Reading: 291.00 
+T1 Reading: nan 
+T2 Reading: -198.55 
+T3 Reading: 25.52 
+Pressure Reading: 7.90 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.02 
+MW from Pressure Error Sum: -0.07 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.41 
+Time Since Start: 112383.00 
+H2 Reading: 293.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.49 
+Pressure Reading: 7.33 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.18 
+MW from Pressure Error Sum: -0.06 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.62 
+Time Since Start: 114755.00 
+H2 Reading: 293.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.37 
+Pressure Reading: 7.62 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: -0.05 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.48 
+Time Since Start: 117128.00 
+H2 Reading: 292.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.46 
+Pressure Reading: 7.33 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.14 
+MW from Pressure Error Sum: -0.02 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.35 
+Time Since Start: 119503.00 
+H2 Reading: 295.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.46 
+Pressure Reading: 7.94 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: -0.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.42 
+Time Since Start: 121878.00 
+H2 Reading: 296.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.45 
+Pressure Reading: 8.06 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.16 
+MW from Pressure Error Sum: 0.01 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.34 
+Time Since Start: 124252.00 
+H2 Reading: 291.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.48 
+Pressure Reading: 6.98 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.25 
+MW from Pressure Error Sum: 0.02 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.78 
+Time Since Start: 126625.00 
+H2 Reading: 283.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.45 
+Pressure Reading: 4.93 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.41 
+MW from Pressure Error Sum: 0.10 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.01 
+Time Since Start: 128997.00 
+H2 Reading: 277.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.45 
+Pressure Reading: 4.10 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.10 
+MW from Pressure Error Sum: 0.25 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 1.85 
+Time Since Start: 131369.00 
+H2 Reading: 272.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.52 
+Pressure Reading: 3.39 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.22 
+MW from Pressure Error Sum: 0.42 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.14 
+Time Since Start: 133741.00 
+H2 Reading: 272.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.40 
+Pressure Reading: 3.74 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.06 
+MW from Pressure Error Sum: 0.60 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.04 
+Time Since Start: 136114.00 
+H2 Reading: 272.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.51 
+Pressure Reading: 4.42 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.23 
+MW from Pressure Error Sum: 0.78 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.05 
+Time Since Start: 138487.00 
+H2 Reading: 282.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.49 
+Pressure Reading: 5.59 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 0.90 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.32 
+Time Since Start: 140860.00 
+H2 Reading: 285.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.49 
+Pressure Reading: 5.95 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.15 
+MW from Pressure Error Sum: 0.97 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 143231.00 
+H2 Reading: 281.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.39 
+Pressure Reading: 6.00 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 145603.00 
+H2 Reading: 279.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.49 
+Pressure Reading: 4.97 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 147975.00 
+H2 Reading: 274.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.48 
+Pressure Reading: 4.17 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 150348.00 
+H2 Reading: 273.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.51 
+Pressure Reading: 3.69 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.16 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.66 
+Time Since Start: 152719.00 
+H2 Reading: 270.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.51 
+Pressure Reading: 3.90 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.15 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.35 
+Time Since Start: 155092.00 
+H2 Reading: 268.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.54 
+Pressure Reading: 3.26 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.15 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.65 
+Time Since Start: 157464.00 
+H2 Reading: 267.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.45 
+Pressure Reading: 2.91 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.16 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.66 
+Time Since Start: 159836.00 
+H2 Reading: 267.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.43 
+Pressure Reading: 2.89 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 162209.00 
+H2 Reading: 268.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.43 
+Pressure Reading: 2.98 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 164581.00 
+H2 Reading: 267.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.43 
+Pressure Reading: 3.05 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 166953.00 
+H2 Reading: 269.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 25.52 
+Pressure Reading: 2.39 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.23 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.73 
+Time Since Start: 169326.00 
+H2 Reading: 269.00 
+T1 Reading: nan 
+T2 Reading: -14.83 
+T3 Reading: 25.54 
+Pressure Reading: 3.00 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.44 
+Time Since Start: 171702.00 
+H2 Reading: 268.00 
+T1 Reading: nan 
+T2 Reading: -39.23 
+T3 Reading: 25.54 
+Pressure Reading: 3.32 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.02 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.52 
+Time Since Start: 174079.00 
+H2 Reading: 269.00 
+T1 Reading: nan 
+T2 Reading: -127.98 
+T3 Reading: 25.52 
+Pressure Reading: 3.37 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 176457.00 
+H2 Reading: 271.00 
+T1 Reading: nan 
+T2 Reading: -818.16 
+T3 Reading: 25.43 
+Pressure Reading: 3.30 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.43 
+Time Since Start: 178834.00 
+H2 Reading: 778.00 
+T1 Reading: nan 
+T2 Reading: 168.84 
+T3 Reading: 25.43 
+Pressure Reading: 3.05 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.57 
+Time Since Start: 181209.00 
+H2 Reading: 619.00 
+T1 Reading: nan 
+T2 Reading: 86.63 
+T3 Reading: 25.48 
+Pressure Reading: 2.36 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 183584.00 
+H2 Reading: 414.00 
+T1 Reading: nan 
+T2 Reading: 72.61 
+T3 Reading: 25.48 
+Pressure Reading: 2.16 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 185959.00 
+H2 Reading: 331.00 
+T1 Reading: nan 
+T2 Reading: 61.13 
+T3 Reading: 25.48 
+Pressure Reading: 2.04 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 188333.00 
+H2 Reading: 295.00 
+T1 Reading: nan 
+T2 Reading: 51.89 
+T3 Reading: 25.48 
+Pressure Reading: 1.88 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+Time Since Start: 190709.00 
+H2 Reading: 280.00 
+T1 Reading: nan 
+T2 Reading: 45.55 
+T3 Reading: 25.49 
+Pressure Reading: 2.02 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.02 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.48 
+Time Since Start: 193084.00 
+H2 Reading: 270.00 
+T1 Reading: nan 
+T2 Reading: 42.27 
+T3 Reading: 25.52 
+Pressure Reading: 2.23 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.14 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.36 
+Time Since Start: 195458.00 
+H2 Reading: 265.00 
+T1 Reading: nan 
+T2 Reading: 40.44 
+T3 Reading: 25.52 
+Pressure Reading: 1.86 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 197833.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: 38.84 
+T3 Reading: 25.51 
+Pressure Reading: 1.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 200207.00 
+H2 Reading: 254.00 
+T1 Reading: nan 
+T2 Reading: 37.14 
+T3 Reading: 25.49 
+Pressure Reading: 1.86 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.46 
+Time Since Start: 202582.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: 35.83 
+T3 Reading: 25.49 
+Pressure Reading: 1.54 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 204956.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: 35.34 
+T3 Reading: 25.43 
+Pressure Reading: 1.61 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 207331.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 34.30 
+T3 Reading: 25.49 
+Pressure Reading: 1.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 209706.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 34.16 
+T3 Reading: 25.49 
+Pressure Reading: 0.90 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 212080.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 33.23 
+T3 Reading: 25.45 
+Pressure Reading: 1.06 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.46 
+Time Since Start: 214456.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 32.68 
+T3 Reading: 25.46 
+Pressure Reading: 0.86 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 216832.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 32.56 
+T3 Reading: 25.48 
+Pressure Reading: 0.44 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 219205.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 32.10 
+T3 Reading: 25.46 
+Pressure Reading: 0.49 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 221579.00 
+H2 Reading: 247.00 
+T1 Reading: nan 
+T2 Reading: 31.88 
+T3 Reading: 25.45 
+Pressure Reading: 0.17 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 223954.00 
+H2 Reading: 247.00 
+T1 Reading: nan 
+T2 Reading: 31.56 
+T3 Reading: 25.43 
+Pressure Reading: 0.47 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 226329.00 
+H2 Reading: 247.00 
+T1 Reading: nan 
+T2 Reading: 31.35 
+T3 Reading: 25.45 
+Pressure Reading: 0.42 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.09 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.59 
+Time Since Start: 228702.00 
+H2 Reading: 246.00 
+T1 Reading: nan 
+T2 Reading: 30.81 
+T3 Reading: 25.51 
+Pressure Reading: 0.65 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 231079.00 
+H2 Reading: 246.00 
+T1 Reading: nan 
+T2 Reading: 30.58 
+T3 Reading: 25.52 
+Pressure Reading: 0.90 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.56 
+Time Since Start: 233454.00 
+H2 Reading: 247.00 
+T1 Reading: nan 
+T2 Reading: 30.53 
+T3 Reading: 25.52 
+Pressure Reading: 0.97 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.02 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.48 
+Time Since Start: 235829.00 
+H2 Reading: 248.00 
+T1 Reading: nan 
+T2 Reading: 30.09 
+T3 Reading: 25.46 
+Pressure Reading: 0.99 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.46 
+Time Since Start: 238205.00 
+H2 Reading: 245.00 
+T1 Reading: nan 
+T2 Reading: 30.00 
+T3 Reading: 25.54 
+Pressure Reading: 0.83 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 240579.00 
+H2 Reading: 248.00 
+T1 Reading: nan 
+T2 Reading: 29.55 
+T3 Reading: 25.54 
+Pressure Reading: 0.95 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 242954.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 29.51 
+T3 Reading: 25.49 
+Pressure Reading: 1.31 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 245330.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 29.05 
+T3 Reading: 25.55 
+Pressure Reading: 1.82 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+Time Since Start: 247705.00 
+H2 Reading: 254.00 
+T1 Reading: nan 
+T2 Reading: 28.65 
+T3 Reading: 25.55 
+Pressure Reading: 2.59 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.14 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.36 
+Time Since Start: 250079.00 
+H2 Reading: 257.00 
+T1 Reading: nan 
+T2 Reading: 28.41 
+T3 Reading: 25.54 
+Pressure Reading: 3.46 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.10 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.40 
+Time Since Start: 252455.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: 28.28 
+T3 Reading: 25.46 
+Pressure Reading: 4.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.19 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.31 
+Time Since Start: 254830.00 
+H2 Reading: 266.00 
+T1 Reading: nan 
+T2 Reading: 28.06 
+T3 Reading: 25.46 
+Pressure Reading: 4.93 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.43 
+Time Since Start: 257205.00 
+H2 Reading: 267.00 
+T1 Reading: nan 
+T2 Reading: 27.70 
+T3 Reading: 25.54 
+Pressure Reading: 5.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 259581.00 
+H2 Reading: 271.00 
+T1 Reading: nan 
+T2 Reading: 27.64 
+T3 Reading: 25.46 
+Pressure Reading: 6.07 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.19 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.31 
+Time Since Start: 261956.00 
+H2 Reading: 271.00 
+T1 Reading: nan 
+T2 Reading: 27.50 
+T3 Reading: 25.48 
+Pressure Reading: 6.05 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.44 
+Time Since Start: 264331.00 
+H2 Reading: 264.00 
+T1 Reading: nan 
+T2 Reading: 27.55 
+T3 Reading: 25.57 
+Pressure Reading: 5.41 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 266706.00 
+H2 Reading: 268.00 
+T1 Reading: nan 
+T2 Reading: 27.44 
+T3 Reading: 25.55 
+Pressure Reading: 5.20 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 269081.00 
+H2 Reading: 266.00 
+T1 Reading: nan 
+T2 Reading: 27.36 
+T3 Reading: 25.55 
+Pressure Reading: 4.58 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.57 
+Time Since Start: 271454.00 
+H2 Reading: 262.00 
+T1 Reading: nan 
+T2 Reading: 27.20 
+T3 Reading: 25.63 
+Pressure Reading: 4.26 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 273831.00 
+H2 Reading: 261.00 
+T1 Reading: nan 
+T2 Reading: 27.20 
+T3 Reading: 25.63 
+Pressure Reading: 3.85 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 276206.00 
+H2 Reading: 259.00 
+T1 Reading: nan 
+T2 Reading: 27.20 
+T3 Reading: 25.63 
+Pressure Reading: 3.74 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+Time Since Start: 278581.00 
+H2 Reading: 262.00 
+T1 Reading: nan 
+T2 Reading: 27.30 
+T3 Reading: 25.58 
+Pressure Reading: 3.90 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.00 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.50 
+Time Since Start: 280957.00 
+H2 Reading: 260.00 
+T1 Reading: nan 
+T2 Reading: 27.20 
+T3 Reading: 25.70 
+Pressure Reading: 3.94 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.11 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.61 
+Time Since Start: 283331.00 
+H2 Reading: 262.00 
+T1 Reading: nan 
+T2 Reading: 27.41 
+T3 Reading: 25.65 
+Pressure Reading: 4.33 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 285705.00 
+H2 Reading: 262.00 
+T1 Reading: nan 
+T2 Reading: 27.44 
+T3 Reading: 25.66 
+Pressure Reading: 4.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 288080.00 
+H2 Reading: 262.00 
+T1 Reading: nan 
+T2 Reading: 27.50 
+T3 Reading: 25.66 
+Pressure Reading: 4.45 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 290455.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: 27.61 
+T3 Reading: 25.87 
+Pressure Reading: 4.13 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 292829.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: 27.78 
+T3 Reading: 25.91 
+Pressure Reading: 4.26 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.56 
+Time Since Start: 295204.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: 28.03 
+T3 Reading: 25.98 
+Pressure Reading: 4.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.00 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.50 
+Time Since Start: 297578.00 
+H2 Reading: 264.00 
+T1 Reading: nan 
+T2 Reading: 28.35 
+T3 Reading: 25.93 
+Pressure Reading: 4.51 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.09 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.41 
+Time Since Start: 299953.00 
+H2 Reading: 262.00 
+T1 Reading: nan 
+T2 Reading: 28.41 
+T3 Reading: 26.08 
+Pressure Reading: 4.22 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 302328.00 
+H2 Reading: 261.00 
+T1 Reading: nan 
+T2 Reading: 28.79 
+T3 Reading: 26.12 
+Pressure Reading: 4.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 304703.00 
+H2 Reading: 260.00 
+T1 Reading: nan 
+T2 Reading: 29.12 
+T3 Reading: 26.18 
+Pressure Reading: 3.67 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 307078.00 
+H2 Reading: 259.00 
+T1 Reading: nan 
+T2 Reading: 29.75 
+T3 Reading: 26.14 
+Pressure Reading: 3.80 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 309454.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: 30.26 
+T3 Reading: 26.30 
+Pressure Reading: 3.35 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 311827.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: 30.72 
+T3 Reading: 26.36 
+Pressure Reading: 3.30 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 314201.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 31.10 
+T3 Reading: 26.45 
+Pressure Reading: 2.66 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.13 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.63 
+Time Since Start: 316576.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: 31.56 
+T3 Reading: 26.47 
+Pressure Reading: 2.78 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.10 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.60 
+Time Since Start: 318951.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: 31.99 
+T3 Reading: 26.52 
+Pressure Reading: 2.48 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 321325.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: 32.38 
+T3 Reading: 26.56 
+Pressure Reading: 2.36 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 323701.00 
+H2 Reading: 253.00 
+T1 Reading: nan 
+T2 Reading: 32.50 
+T3 Reading: 26.72 
+Pressure Reading: 2.48 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 326076.00 
+H2 Reading: 253.00 
+T1 Reading: nan 
+T2 Reading: 32.92 
+T3 Reading: 26.75 
+Pressure Reading: 2.94 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 328450.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: 33.42 
+T3 Reading: 26.84 
+Pressure Reading: 3.10 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.44 
+Time Since Start: 330827.00 
+H2 Reading: 257.00 
+T1 Reading: nan 
+T2 Reading: 34.02 
+T3 Reading: 26.89 
+Pressure Reading: 3.14 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 333201.00 
+H2 Reading: 260.00 
+T1 Reading: nan 
+T2 Reading: 34.96 
+T3 Reading: 26.82 
+Pressure Reading: 3.60 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 335574.00 
+H2 Reading: 259.00 
+T1 Reading: nan 
+T2 Reading: 35.83 
+T3 Reading: 27.02 
+Pressure Reading: 3.44 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 337948.00 
+H2 Reading: 261.00 
+T1 Reading: nan 
+T2 Reading: 35.99 
+T3 Reading: 26.92 
+Pressure Reading: 3.76 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 340323.00 
+H2 Reading: 257.00 
+T1 Reading: nan 
+T2 Reading: 37.52 
+T3 Reading: 27.14 
+Pressure Reading: 3.67 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 342698.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: 38.41 
+T3 Reading: 27.17 
+Pressure Reading: 3.69 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.00 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.50 
+Time Since Start: 345072.00 
+H2 Reading: 265.00 
+T1 Reading: nan 
+T2 Reading: 38.84 
+T3 Reading: 27.36 
+Pressure Reading: 4.03 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+Time Since Start: 347448.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: 39.96 
+T3 Reading: 27.41 
+Pressure Reading: 4.19 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.14 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.36 
+Time Since Start: 349824.00 
+H2 Reading: 265.00 
+T1 Reading: nan 
+T2 Reading: 42.27 
+T3 Reading: 27.30 
+Pressure Reading: 3.69 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.57 
+Time Since Start: 352197.00 
+H2 Reading: 264.00 
+T1 Reading: nan 
+T2 Reading: 43.74 
+T3 Reading: 27.36 
+Pressure Reading: 4.03 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.00 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.50 
+Time Since Start: 354571.00 
+H2 Reading: 264.00 
+T1 Reading: nan 
+T2 Reading: 45.20 
+T3 Reading: 27.44 
+Pressure Reading: 3.80 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 356948.00 
+H2 Reading: 264.00 
+T1 Reading: nan 
+T2 Reading: 47.21 
+T3 Reading: 27.47 
+Pressure Reading: 4.22 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 359323.00 
+H2 Reading: 267.00 
+T1 Reading: nan 
+T2 Reading: 49.06 
+T3 Reading: 27.50 
+Pressure Reading: 4.58 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.10 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.40 
+Time Since Start: 361699.00 
+H2 Reading: 269.00 
+T1 Reading: nan 
+T2 Reading: 51.63 
+T3 Reading: 27.55 
+Pressure Reading: 5.11 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.16 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.34 
+Time Since Start: 364074.00 
+H2 Reading: 270.00 
+T1 Reading: nan 
+T2 Reading: 55.52 
+T3 Reading: 27.64 
+Pressure Reading: 5.45 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.23 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.27 
+Time Since Start: 366449.00 
+H2 Reading: 273.00 
+T1 Reading: nan 
+T2 Reading: 61.53 
+T3 Reading: 27.94 
+Pressure Reading: 5.43 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 368824.00 
+H2 Reading: 274.00 
+T1 Reading: nan 
+T2 Reading: 73.89 
+T3 Reading: 27.87 
+Pressure Reading: 5.15 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.15 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.65 
+Time Since Start: 371199.00 
+H2 Reading: 274.00 
+T1 Reading: nan 
+T2 Reading: 87.62 
+T3 Reading: 27.90 
+Pressure Reading: 5.09 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 373572.00 
+H2 Reading: 274.00 
+T1 Reading: nan 
+T2 Reading: 115.36 
+T3 Reading: 27.97 
+Pressure Reading: 5.27 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.46 
+Time Since Start: 375949.00 
+H2 Reading: 271.00 
+T1 Reading: nan 
+T2 Reading: 148.92 
+T3 Reading: 28.15 
+Pressure Reading: 5.18 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.43 
+Time Since Start: 378325.00 
+H2 Reading: 272.00 
+T1 Reading: nan 
+T2 Reading: 638.91 
+T3 Reading: 28.03 
+Pressure Reading: 4.67 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 380700.00 
+H2 Reading: 270.00 
+T1 Reading: nan 
+T2 Reading: -314.84 
+T3 Reading: 28.06 
+Pressure Reading: 4.81 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 383077.00 
+H2 Reading: 267.00 
+T1 Reading: nan 
+T2 Reading: -91.81 
+T3 Reading: 28.25 
+Pressure Reading: 4.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 385451.00 
+H2 Reading: 269.00 
+T1 Reading: nan 
+T2 Reading: -53.70 
+T3 Reading: 28.15 
+Pressure Reading: 4.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.56 
+Time Since Start: 387827.00 
+H2 Reading: 265.00 
+T1 Reading: nan 
+T2 Reading: -26.05 
+T3 Reading: 28.32 
+Pressure Reading: 3.80 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 390202.00 
+H2 Reading: 268.00 
+T1 Reading: nan 
+T2 Reading: -15.94 
+T3 Reading: 28.45 
+Pressure Reading: 3.94 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 392576.00 
+H2 Reading: 267.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.25 
+Pressure Reading: 4.17 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.15 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.35 
+Time Since Start: 394948.00 
+H2 Reading: 269.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.45 
+Pressure Reading: 4.35 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 397321.00 
+H2 Reading: 271.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.35 
+Pressure Reading: 4.81 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.09 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.41 
+Time Since Start: 399695.00 
+H2 Reading: 274.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.52 
+Pressure Reading: 5.25 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 402068.00 
+H2 Reading: 275.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.62 
+Pressure Reading: 5.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.00 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.50 
+Time Since Start: 404440.00 
+H2 Reading: 276.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.55 
+Pressure Reading: 5.50 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.43 
+Time Since Start: 406815.00 
+H2 Reading: 275.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.48 
+Pressure Reading: 5.82 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.43 
+Time Since Start: 409188.00 
+H2 Reading: 273.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.65 
+Pressure Reading: 5.31 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 411561.00 
+H2 Reading: 272.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.69 
+Pressure Reading: 4.88 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.02 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.52 
+Time Since Start: 413933.00 
+H2 Reading: 272.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.52 
+Pressure Reading: 5.18 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 416306.00 
+H2 Reading: 269.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.69 
+Pressure Reading: 4.88 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+Time Since Start: 418679.00 
+H2 Reading: 272.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.69 
+Pressure Reading: 4.47 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 421050.00 
+H2 Reading: 271.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.55 
+Pressure Reading: 4.70 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.10 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.40 
+Time Since Start: 423423.00 
+H2 Reading: 271.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.55 
+Pressure Reading: 4.54 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 425795.00 
+H2 Reading: 270.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.72 
+Pressure Reading: 4.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 428168.00 
+H2 Reading: 268.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.62 
+Pressure Reading: 3.87 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 430541.00 
+H2 Reading: 267.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.65 
+Pressure Reading: 3.87 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.44 
+Time Since Start: 432913.00 
+H2 Reading: 269.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.79 
+Pressure Reading: 3.48 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 435284.00 
+H2 Reading: 265.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.94 
+Pressure Reading: 3.28 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 437656.00 
+H2 Reading: 265.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.79 
+Pressure Reading: 3.32 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 440028.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.79 
+Pressure Reading: 3.05 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.56 
+Time Since Start: 442401.00 
+H2 Reading: 262.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.79 
+Pressure Reading: 2.82 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 444773.00 
+H2 Reading: 263.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.79 
+Pressure Reading: 2.64 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 447145.00 
+H2 Reading: 260.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.97 
+Pressure Reading: 2.14 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.09 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.59 
+Time Since Start: 449517.00 
+H2 Reading: 259.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.79 
+Pressure Reading: 2.14 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 451890.00 
+H2 Reading: 259.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.01 
+Pressure Reading: 1.91 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.02 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.48 
+Time Since Start: 454263.00 
+H2 Reading: 257.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.01 
+Pressure Reading: 1.61 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 456634.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.83 
+Pressure Reading: 1.72 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.10 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.40 
+Time Since Start: 459007.00 
+H2 Reading: 255.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.05 
+Pressure Reading: 1.50 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.00 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.50 
+Time Since Start: 461379.00 
+H2 Reading: 254.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.01 
+Pressure Reading: 1.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 463751.00 
+H2 Reading: 254.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.01 
+Pressure Reading: 1.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 466124.00 
+H2 Reading: 254.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.94 
+Pressure Reading: 0.95 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 468495.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.08 
+Pressure Reading: 0.92 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.02 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.52 
+Time Since Start: 470868.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.08 
+Pressure Reading: 0.72 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 473241.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.12 
+Pressure Reading: 0.54 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.57 
+Time Since Start: 475613.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.08 
+Pressure Reading: 0.58 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 477987.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.94 
+Pressure Reading: 0.58 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 480359.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.05 
+Pressure Reading: 0.26 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 482730.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.90 
+Pressure Reading: 0.44 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 485103.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 28.94 
+Pressure Reading: 0.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 487475.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.12 
+Pressure Reading: 0.28 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 489847.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.08 
+Pressure Reading: 0.10 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 492220.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: nan 
+T3 Reading: 29.05 
+Pressure Reading: 0.19 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 494592.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: -6.87 
+T3 Reading: 29.08 
+Pressure Reading: 0.08 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.56 
+Time Since Start: 496965.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: -15.94 
+T3 Reading: 29.08 
+Pressure Reading: 0.01 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 499341.00 
+H2 Reading: 248.00 
+T1 Reading: nan 
+T2 Reading: -25.56 
+T3 Reading: 29.20 
+Pressure Reading: -0.26 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.14 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.64 
+Time Since Start: 501717.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: -39.98 
+T3 Reading: 29.12 
+Pressure Reading: 0.19 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.10 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.40 
+Time Since Start: 504094.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: -58.40 
+T3 Reading: 29.16 
+Pressure Reading: -0.08 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 506471.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: -91.81 
+T3 Reading: 29.12 
+Pressure Reading: 0.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.44 
+Time Since Start: 508847.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: -127.98 
+T3 Reading: 29.12 
+Pressure Reading: 0.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 511224.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: -338.73 
+T3 Reading: 29.05 
+Pressure Reading: 0.08 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.43 
+Time Since Start: 513601.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 2467.67 
+T3 Reading: 29.08 
+Pressure Reading: -0.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.09 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.59 
+Time Since Start: 515978.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 2467.67 
+T3 Reading: 28.90 
+Pressure Reading: -0.10 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 518357.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 349.84 
+T3 Reading: 28.90 
+Pressure Reading: -0.17 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 520734.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 209.52 
+T3 Reading: 28.94 
+Pressure Reading: -0.10 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.44 
+Time Since Start: 523111.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 148.92 
+T3 Reading: 29.12 
+Pressure Reading: -0.17 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 525489.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 126.04 
+T3 Reading: 29.08 
+Pressure Reading: -0.08 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 527867.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 123.72 
+T3 Reading: 28.94 
+Pressure Reading: -0.38 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 530243.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 100.61 
+T3 Reading: 29.05 
+Pressure Reading: -0.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.00 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.50 
+Time Since Start: 532619.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 91.85 
+T3 Reading: 29.08 
+Pressure Reading: -0.22 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 534996.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 88.63 
+T3 Reading: 29.01 
+Pressure Reading: -0.36 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 537372.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 90.75 
+T3 Reading: 28.87 
+Pressure Reading: -0.13 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 539749.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 87.62 
+T3 Reading: 29.05 
+Pressure Reading: -0.38 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 542123.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 82.95 
+T3 Reading: 28.87 
+Pressure Reading: -0.26 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 544499.00 
+H2 Reading: 248.00 
+T1 Reading: nan 
+T2 Reading: 82.95 
+T3 Reading: 29.12 
+Pressure Reading: -0.38 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 546874.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 75.92 
+T3 Reading: 29.08 
+Pressure Reading: -0.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 549249.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 73.89 
+T3 Reading: 29.05 
+Pressure Reading: -0.22 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 551627.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 75.23 
+T3 Reading: 28.94 
+Pressure Reading: -0.38 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 554002.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 74.55 
+T3 Reading: 28.87 
+Pressure Reading: -0.47 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 556377.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 69.65 
+T3 Reading: 29.01 
+Pressure Reading: -0.22 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 558754.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 69.09 
+T3 Reading: 29.01 
+Pressure Reading: -0.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 561130.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 71.99 
+T3 Reading: 28.83 
+Pressure Reading: -0.22 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 563507.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 71.99 
+T3 Reading: 28.97 
+Pressure Reading: -0.36 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.46 
+Time Since Start: 565885.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 70.22 
+T3 Reading: 28.83 
+Pressure Reading: -0.13 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.38 
+Time Since Start: 568260.00 
+H2 Reading: 248.00 
+T1 Reading: nan 
+T2 Reading: 69.09 
+T3 Reading: 28.83 
+Pressure Reading: -0.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.42 
+Time Since Start: 570637.00 
+H2 Reading: 248.00 
+T1 Reading: nan 
+T2 Reading: 70.80 
+T3 Reading: 29.05 
+Pressure Reading: -0.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 573013.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 66.98 
+T3 Reading: 29.08 
+Pressure Reading: -0.20 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 575390.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 66.98 
+T3 Reading: 29.05 
+Pressure Reading: -0.40 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 577765.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 69.65 
+T3 Reading: 28.94 
+Pressure Reading: -0.47 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.06 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.44 
+Time Since Start: 580141.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 66.98 
+T3 Reading: 29.01 
+Pressure Reading: -0.33 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.02 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.48 
+Time Since Start: 582519.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 70.22 
+T3 Reading: 28.87 
+Pressure Reading: -0.49 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 584895.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 67.49 
+T3 Reading: 29.01 
+Pressure Reading: -0.68 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 587270.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 71.99 
+T3 Reading: 28.79 
+Pressure Reading: -0.29 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.07 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.43 
+Time Since Start: 589647.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 70.22 
+T3 Reading: 28.79 
+Pressure Reading: -0.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 592023.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 71.99 
+T3 Reading: 28.97 
+Pressure Reading: -0.40 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.55 
+Time Since Start: 594398.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 69.65 
+T3 Reading: 29.01 
+Pressure Reading: -0.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.12 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.62 
+Time Since Start: 596775.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 68.55 
+T3 Reading: 29.05 
+Pressure Reading: -0.33 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+Time Since Start: 599151.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 71.99 
+T3 Reading: 28.90 
+Pressure Reading: -0.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 601526.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 68.55 
+T3 Reading: 29.01 
+Pressure Reading: -0.22 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.49 
+Time Since Start: 603903.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 69.09 
+T3 Reading: 28.97 
+Pressure Reading: -0.36 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.47 
+Time Since Start: 606279.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 73.89 
+T3 Reading: 28.79 
+Pressure Reading: -0.17 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 608655.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 73.89 
+T3 Reading: 28.79 
+Pressure Reading: -0.45 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 611030.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 75.23 
+T3 Reading: 28.76 
+Pressure Reading: -0.36 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.46 
+Time Since Start: 613408.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 76.62 
+T3 Reading: 28.90 
+Pressure Reading: -0.54 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 615783.00 
+H2 Reading: 249.00 
+T1 Reading: nan 
+T2 Reading: 77.35 
+T3 Reading: 28.90 
+Pressure Reading: -0.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 618157.00 
+H2 Reading: 246.00 
+T1 Reading: nan 
+T2 Reading: 77.35 
+T3 Reading: 28.97 
+Pressure Reading: -0.63 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 620533.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 72.61 
+T3 Reading: 28.97 
+Pressure Reading: -0.38 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+Time Since Start: 622909.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 75.92 
+T3 Reading: 28.87 
+Pressure Reading: -0.65 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.14 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.64 
+Time Since Start: 625284.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 71.99 
+T3 Reading: 28.97 
+Pressure Reading: -0.31 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+Time Since Start: 627661.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 71.99 
+T3 Reading: 28.90 
+Pressure Reading: -0.38 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.02 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.48 
+Time Since Start: 630037.00 
+H2 Reading: 253.00 
+T1 Reading: nan 
+T2 Reading: 76.62 
+T3 Reading: 28.76 
+Pressure Reading: -0.24 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.46 
+Time Since Start: 632413.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 76.62 
+T3 Reading: 28.76 
+Pressure Reading: -0.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.04 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.54 
+Time Since Start: 634789.00 
+H2 Reading: 250.00 
+T1 Reading: nan 
+T2 Reading: 73.24 
+T3 Reading: 28.90 
+Pressure Reading: -0.52 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.03 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.53 
+Time Since Start: 637164.00 
+H2 Reading: 251.00 
+T1 Reading: nan 
+T2 Reading: 77.35 
+T3 Reading: 28.87 
+Pressure Reading: -0.54 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.08 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.58 
+Time Since Start: 639539.00 
+H2 Reading: 252.00 
+T1 Reading: nan 
+T2 Reading: 75.23 
+T3 Reading: 28.69 
+Pressure Reading: -0.40 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: 0.01 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.51 
+Time Since Start: 641915.00 
+H2 Reading: 248.00 
+T1 Reading: nan 
+T2 Reading: 77.35 
+T3 Reading: 28.90 
+Pressure Reading: -0.56 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.00 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.50 
+Time Since Start: 644291.00 
+H2 Reading: 253.00 
+T1 Reading: nan 
+T2 Reading: 73.24 
+T3 Reading: 28.94 
+Pressure Reading: -0.31 
+MW from Pressure Error: 0.00 
+MW from Pressure Error Change: -0.05 
+MW from Pressure Error Sum: 1.00 
+MW from Motor Speed Sum: 0.00 
+Motor Speed Written: 2.45 
+

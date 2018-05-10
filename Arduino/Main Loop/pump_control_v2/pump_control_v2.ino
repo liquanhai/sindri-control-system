@@ -10,18 +10,22 @@
 
 // Pins
 int PTPIN = 0;
-int TCPIN1 = 10;
-int TCPIN2 = 20;
-int TCPIN3 = 30;
-int PWM_PIN = 9;
-int H2PIN = 1;
+int TCPIN1 = 1;
+int TCPIN2 = 2;
+int TCPIN3 = 3;
+int PWM_PIN = 3;
+int H2PIN = 10;
+int slnd_pin = 4;
+
 
 //Pump definition
 float satFlow = 2;
 Pump m(PWM_PIN,satFlow);
 
 //Thermocouple definition
-Thermocouple thermocouple(TCPIN1,TCPIN2,TCPIN3);
+Thermistor t1(TCPIN1,2200);
+Thermistor t2(TCPIN2,2200);
+Thermistor t3(TCPIN3,2200);
 
 //Pressure sensor definition
 Pressure_sensor psensor(PTPIN);
@@ -32,7 +36,7 @@ H2_sensor h2sensor(H2PIN);
 // Constants
 float nominal = 0; // Calibrated pressure reading
 float minMotorSpeed = 1;
-float desiredFlowRate = 0.35;
+float desiredFlowRate = 1.5;
 bool filtering = 1;
 
 // Variables for loop control
@@ -49,13 +53,13 @@ float onDelay = 500; //on off delay time
 float offDelay = 2500;
 
 // PID Loop
-float P_desired = 4;
+float P_desired = 8;
 float K_p = 0;
 float K_d = 300;
-float K_i = 0.00001;
+float K_i = 0.00002;
 float K_ms = 0;
 float Sum;
-float summax = 25000;
+float summax = 50000;
 float MS_Sum;
 float MS_summax = 2500;
 
@@ -82,6 +86,8 @@ void motor_write(int pin, float flowrate)
 };
 
 void setup() {
+  // Set solenoid pin to output
+  pinMode(slnd_pin,OUTPUT);
   // Start Serial
   Serial.begin(9600);
   Serial.println("Reaction Control Test!");
@@ -116,8 +122,8 @@ void setup() {
   Serial.println("Done calibrating");
   sinceStart = 0;
 
-  // Close the relief valve
-  analogWrite(3, 0);
+  // Open the relief valve
+  digitalWrite(slnd_pin, LOW);
 }
 
 void loop() {
@@ -131,7 +137,7 @@ void loop() {
   {
     Serial.println("Pressure too high, opening valve");
     controlSwitch = false;
-    analogWrite(3,255);
+    digitalWrite(slnd_pin, HIGH);
   }
 }
 
@@ -143,8 +149,14 @@ void updatePump(){
   // Read Sensor value
   psensor.update_sensor(filtering);
   h2sensor.update_sensor();
+  t1.update_sensor();
+  t2.update_sensor();
+  t3.update_sensor();
   printOut(loopCounter,"Time Since Start: ",sinceStart);
   printOut(loopCounter,"H2 Reading: ",h2sensor.current_reading);
+  printOut(loopCounter,"T1 Reading: ",t1.current_reading);
+  printOut(loopCounter,"T2 Reading: ",t2.current_reading);
+  printOut(loopCounter,"T3 Reading: ",t3.current_reading);
   
   float P_current = psensor.current_reading-nominal;
 
@@ -197,11 +209,18 @@ void warmUp(){
   if (int(loopTime) < int(deltaT)) {return;}// looptime is an elapsedtime var.
   loopTime = 0;
 
-  thermocouple.update_sensor();
+  t1.update_sensor();
+  t2.update_sensor();
+  t3.update_sensor();
   
-  float T_current = thermocouple.current_reading;
   
-  printOut(loopCounter,"Current Temperature: ",T_current);
+  float T_current = t1.current_reading;
+  
+  printOut(loopCounter,"Current Chamber Temperature: ",T_current);
+
+  printOut(loopCounter,"Temp 2: ", t2.current_reading);
+  printOut(loopCounter,"Temp 3: ", t3.current_reading);
+  
 
   float flowRate = flowRateStarting;
 
